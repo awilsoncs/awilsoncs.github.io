@@ -18,7 +18,7 @@ The members of your team fall into these four categories. In this post, we'll lo
 
 ## The Two Axes: Motivation and Competency
 
-Let us properly define two axes. I won't dally long on exploring these, as great minds have written entire libraries on them.
+Let us properly define two axes. I won't dally long on these, but we need a common vocabulary.
 
 The first axis is motivation. Poorly motivated individuals waffle on decisions, fail to deliver, and leech energy from the organization. Highly motivated individuals exhibit curiosity, propose possibilities, and inspire others. Focus on their willingness to engage with problems and to remain positive in the face of complexity.
 
