@@ -44,6 +44,8 @@ class SimplexCostMapper(CostMapper):
 
 After calculating the height map, we can apply `tcod` pathfinding to generate a windy route across the map. The `tcod` docs aren't explicit about the pathfinding algorithm used, but Dijkstra works here if coding from scratch. The general idea is that we want to find the "cheapest" path from the start to the end, using the height map as our costs.
 
+> Aside: This isn't a actually how water works! For instance, it's possible that the cheapest path climbs over a hill before traveling through a low valley. If the terrain is going to be visible, you should use a hillclimbing algorithm instead.
+
 
 ```python
 
