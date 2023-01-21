@@ -7,6 +7,10 @@
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/aaronwilsoncs'   # Fill with your Linkedin homepage
+-
+  type: mastodon
+  icon: 'fab fa-mastodon'
+  url: 'https://mastodon.gamedev.place/@AaronWilson#'
 # -
 #   type: email
 #   icon: 'fas fa-envelope'
