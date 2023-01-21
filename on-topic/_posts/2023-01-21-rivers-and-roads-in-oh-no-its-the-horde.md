@@ -42,7 +42,7 @@ class SimplexCostMapper(CostMapper):
         return cost.astype(np.uint16).transpose()
 ```
 
-After calculating the height map, we can apply `tcod` pathfinding to generate a windy route across the map. The `tcod` docs aren't explicit about the pathfinding algorithm used, but Djikstra works here if coding from scratch. The general idea is that we want to find the "cheapest" path from the start to the end, using the height map as our costs.
+After calculating the height map, we can apply `tcod` pathfinding to generate a windy route across the map. The `tcod` docs aren't explicit about the pathfinding algorithm used, but Dijkstra works here if coding from scratch. The general idea is that we want to find the "cheapest" path from the start to the end, using the height map as our costs.
 
 
 ```python
