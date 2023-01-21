@@ -1,6 +1,6 @@
 ---
 tags: python tcod roguelike coding tutorials
-title: "Rivers and Roads in _Oh No! It's THE HORDE!_"
+title: "Rivers and Roads in Oh No! It's THE HORDE!"
 ---
 
 ## Introduction
