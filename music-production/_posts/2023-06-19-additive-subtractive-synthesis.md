@@ -4,7 +4,7 @@ tags: music production synthesis harmonics fl-studio tutorials level:intermediat
 
 By doing this exercise, you will be manually building a complex waveform through additive synthesis (using multiple sine waves at different pitches to create a complex harmonic structure) and then applying subtractive synthesis principles (using a filter to subtract frequencies from this complex waveform). This simulates the signal flow of an additive-subtractive synthesizer like Harmless.
 
-This exercise assumes you know about and understand harmonics. If you don't, please work through [Understanding Harmonics](Understanding-Harmonics.md) first. You should also be comfortable using the following plugins:
+This exercise assumes you know about and understand harmonics. If you don't, please work through [Understanding Harmonics]({% link music-production/_posts/2023-06-12-understanding-harmonics.md %}) first. You should also be comfortable using the following plugins:
 
 - 3x Osc
 - Fruit Parametric EQ2
@@ -74,7 +74,7 @@ Make sure to tune OSC 2 and 3 for each instance.
 
 _Note: You probably won't be able to hear much difference on the 3rd, 6th, and 12th harmonics._
 
-## (Optional) Add Subharmonics
+### (Optional) Add Subharmonics
 
 Subharmonics are lower harmonics that are not part of the harmonic series, but some synths artificially create them by adding additional sine waves at lower frequencies. By doing so, the synth adds low-end weight to the sound, giving it more presence.
 
