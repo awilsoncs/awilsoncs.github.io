@@ -59,9 +59,6 @@ GEM
       jekyll-redirect-from (~> 0.16)
       jekyll-seo-tag (~> 2.7)
       jekyll-sitemap (~> 1.4)
-    jekyll-toc (0.18.0)
-      jekyll (>= 3.9)
-      nokogiri (~> 1.12)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -112,7 +109,6 @@ PLATFORMS
 DEPENDENCIES
   html-proofer (~> 3.18)
   jekyll-theme-chirpy (~> 5.3, >= 5.3.2)
-  jekyll-toc
   nokogiri (~> 1.13, >= 1.13.10)
   tzinfo (~> 1.2)
   tzinfo-data
