@@ -6,7 +6,7 @@ Welcome to the journey of sound design using FL Studio's 3x Osc and stock effect
 
 You should be comfortable with the interface of FL Studio, FL Parametric EQ 2. If you don't know your way around 3x Osc, refer to the [FL Studio manual](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/3x%20Osc.htm) for any questions.
 
-This guide offers a comprehensive exploration into the art of synthesizing a multitude of sounds. Our focus will range from creating percussive elements like kicks, snares, and hi-hats, to essential bass sounds such as sub and Moog bass, mid-range instruments including pads and plucks, and a broad spectrum of sound effects (FX), such as risers and impacts.
+This guide offers an exploration into the art of synthesizing a multitude of sounds. Our focus will range from creating percussive elements like kicks, snares, and hi-hats, to essential bass sounds such as sub and the Reese bass, mid-range instruments including pads and plucks, and a broad spectrum of sound effects (FX), such as risers and impacts.
 
 Throughout this journey, we will delve into key sound design principles, including understanding different oscillator waveforms, the use of ADSR envelopes to shape sounds, applying filters to control the harmonic content of your sounds, and using effects processing to introduce depth, space, character, and complexity to your creations.
 
@@ -126,13 +126,13 @@ These patches serve as an introduction to sound design in FL Studio, and underst
 
 1. **Waveform Selection**: In 3x Osc, set all three oscillators to sine waves. Sine waves are ideal for sub bass because they produce a pure tone with no harmonic overtones.
 
-2. **Tuning and Mixing**: You can experiment with tuning the oscillators at different octaves to add some subtle harmonic content. For example, you might set OSC 1 to -12 semitones, OSC 2 to -24 semitones, and OSC 3 to -36 semitones. Mix the oscillators to taste, but the lower octave oscillator should be the loudest to maintain a deep, subby sound.
+2. **Tuning and Mixing**: You can experiment with tuning the oscillators at different octaves to add some subtle harmonic content. For example, you might set OSC 1 to +0 semitones, OSC 2 to -12 semitones, and OSC 3 to -24 semitones. Mix the oscillators to taste, but the lower octave oscillator should be the loudest to maintain a deep, subby sound.
 
 3. **Volume Envelope**: For the volume envelope, set a fast attack, high sustain, and medium release. This will make the sound continuous when a note is held, and prevent clicks or pops when the note stops.
 
 4. **Effects**: For a sub bass, it's best to keep effects minimal to maintain a clean low end. However, you can use a Fruity Parametric EQ 2 in the Mixer to make any necessary adjustments to the sound. For example, you might boost the very low frequencies or cut some of the higher frequencies.
 
-#### Moog Bass
+#### Reese Bass
 
 1. **Waveform Selection**: Set all three oscillators in 3x Osc to saw waves. This will give the Moog bass its characteristic rich, buzzy sound.
 
@@ -150,7 +150,7 @@ These patches serve as an introduction to sound design in FL Studio, and underst
 
 1. **Waveform Selection**: In 3x Osc, set all three oscillators to saw waves. This will give the pad a rich, full sound.
 
-2. **Tuning and Mixing**: Detune the oscillators slightly from each other to create a thicker, more interesting sound.
+2. **Tuning and Mixing**: Detune the oscillators slightly from each other to create a thicker, more interesting sound. Consider duplicating this instrument to add even more voices at other tunings.
 
 3. **Filtering**: Use a low-pass filter to remove some of the harsh high frequencies and create a warmer sound. Set a slight filter envelope with a long attack and release to add some movement to the sound.
 
